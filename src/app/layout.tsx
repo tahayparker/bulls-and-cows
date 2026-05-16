@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Bulls & Cows Solver",
+  title: "Cows & Bulls Solver",
   description: "A local four-letter Bulls and Cows solver with an API-built word list.",
 };
 
