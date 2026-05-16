@@ -14,7 +14,7 @@ import {
 
 type LoadState = "loading" | "ready" | "error";
 
-const DEFAULT_MAX_GUESSES = 6;
+const DEFAULT_MAX_GUESSES = 10;
 const MAX_GUESSES_LIMIT = 12;
 
 function clamp(value: number, min: number, max: number) {
