@@ -1,6 +1,6 @@
 # Cows & Bulls Solver
 
-A simple Next.js dashboard for four-letter Bulls and Cows with unique letters.
+A simple Next.js dashboard for four-letter Cows & Bulls with unique letters.
 
 The dashboard never calls the Dictionary API during play. It loads `public/words.txt`,
 filters possible answers locally, and ranks next guesses by expected information gain.
