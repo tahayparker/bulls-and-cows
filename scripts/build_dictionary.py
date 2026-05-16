@@ -362,7 +362,7 @@ def main() -> int:
         raise ValueError("--workers must be at least 1.")
 
     log(f"\n{'═' * 60}")
-    log(f"  Bulls & Cows  —  Dictionary Builder")
+    log(f"  Cows & Bulls  —  Dictionary Builder")
     log(f"{'═' * 60}")
     log(f"  Cache (absolute)  {cache_path.resolve()}")
     log(f"  Output            {out_path.resolve()}")
