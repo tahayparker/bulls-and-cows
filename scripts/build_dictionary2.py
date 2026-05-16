@@ -435,7 +435,7 @@ async def async_main(args: argparse.Namespace) -> int:
         raise ValueError("--workers must be at least 1.")
 
     print(f"\n{'═' * 60}")
-    print(f"  Bulls & Cows  —  Dictionary Builder")
+    print(f"  Cows & Bulls  —  Dictionary Builder")
     print(f"{'═' * 60}")
     print(f"  Cache           {cache_path.resolve()}")
     print(f"  Output          {out_path.resolve()}")
