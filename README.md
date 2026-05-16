@@ -1,4 +1,4 @@
-# Bulls & Cows Solver
+# Cows & Bulls Solver
 
 A simple Next.js dashboard for four-letter Bulls and Cows with unique letters.
 
