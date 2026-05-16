@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Cows & Bulls Solver",
-  description: "A local four-letter Bulls and Cows solver with an API-built word list.",
+  description: "A local four-letter Cows & Bulls solver with an API-built word list.",
 };
 
 export default function RootLayout({
