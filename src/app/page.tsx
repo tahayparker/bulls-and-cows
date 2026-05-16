@@ -385,7 +385,7 @@ export default function Home() {
         <button type="button" className="icon-button" onClick={resetGame} aria-label="Reset game">
           <RefreshCcw aria-hidden className="size-5" />
         </button>
-        <h1>Bulls & Cows</h1>
+        <h1>Cows & Bulls</h1>
         <label className="max-guesses">
           <span>Max</span>
           <ReplaceNumberInput
